@@ -1,5 +1,11 @@
 # @backstage/core-plugin-api
 
+## 0.1.11
+
+### Patch Changes
+
+- 36e67d2f24: Internal updates to apply more strict checks to throw errors.
+
 ## 0.1.10
 
 ### Patch Changes

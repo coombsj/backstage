@@ -1,5 +1,14 @@
 # @backstage/plugin-user-settings
 
+## 0.3.10
+
+### Patch Changes
+
+- 63602a1753: Align grid height
+- Updated dependencies
+  - @backstage/core-components@0.7.1
+  - @backstage/core-plugin-api@0.1.11
+
 ## 0.3.9
 
 ### Patch Changes

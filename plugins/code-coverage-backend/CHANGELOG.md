@@ -1,5 +1,14 @@
 # @backstage/plugin-code-coverage-backend
 
+## 0.1.14
+
+### Patch Changes
+
+- 36e67d2f24: Internal updates to apply more strict checks to throw errors.
+- Updated dependencies
+  - @backstage/backend-common@0.9.7
+  - @backstage/errors@0.1.3
+
 ## 0.1.13
 
 ### Patch Changes

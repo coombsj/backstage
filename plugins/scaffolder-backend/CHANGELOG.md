@@ -1,5 +1,15 @@
 # @backstage/plugin-scaffolder-backend
 
+## 0.15.10
+
+### Patch Changes
+
+- 36e67d2f24: Internal updates to apply more strict checks to throw errors.
+- Updated dependencies
+  - @backstage/backend-common@0.9.7
+  - @backstage/errors@0.1.3
+  - @backstage/plugin-catalog-backend@0.17.1
+
 ## 0.15.9
 
 ### Patch Changes

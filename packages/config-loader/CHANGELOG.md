@@ -1,5 +1,14 @@
 # @backstage/config-loader
 
+## 0.6.11
+
+### Patch Changes
+
+- 223e8de6b4: Configuration schema errors are now filtered using the provided visibility option. This means that schema errors due to missing backend configuration will no longer break frontend builds.
+- 36e67d2f24: Internal updates to apply more strict checks to throw errors.
+- Updated dependencies
+  - @backstage/errors@0.1.3
+
 ## 0.6.10
 
 ### Patch Changes

@@ -1,5 +1,17 @@
 # @backstage/plugin-techdocs
 
+## 0.12.3
+
+### Patch Changes
+
+- cdf8ca6111: Only replace the shadow dom if the content is changed to avoid a flickering UI.
+- Updated dependencies
+  - @backstage/core-components@0.7.1
+  - @backstage/errors@0.1.3
+  - @backstage/core-plugin-api@0.1.11
+  - @backstage/plugin-catalog@0.7.2
+  - @backstage/plugin-catalog-react@0.6.1
+
 ## 0.12.2
 
 ### Patch Changes
